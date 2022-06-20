@@ -16,7 +16,12 @@ public class Demog
 	{
 		System.out.println("Madane");
 	}
-
+  
+	
+	public void m4()
+	{
+		System.out.println("pune");
+	}
 
 	
 	
