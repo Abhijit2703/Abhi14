@@ -6,4 +6,12 @@ public class Demog
 	{
 		System.out.println("Abhijit");
 	}
+	
+	public void m2()
+	{
+		System.out.println("Abhijit");
+	}
+
+	
+	
 }
