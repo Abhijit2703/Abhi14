@@ -9,8 +9,14 @@ public class Demog
 	
 	public void m2()
 	{
-		System.out.println("Abhijit");
+		System.out.println("Hanmant");
 	}
+	
+	public void m3()
+	{
+		System.out.println("Madane");
+	}
+
 
 	
 	
